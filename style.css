@@ -1,0 +1,63 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  background-color: #FFE3B5;
+  font-size: 12px;
+}
+
+h1 {
+  color: #FFB640;
+  font-family: 'Quicksand', sans-serif;
+  letter-spacing: 5px;
+  line-height: 0.5;
+}
+
+h2, h3 {
+  color: #605754;
+  font-family: 'Quicksand', sans-serif;
+  letter-spacing: 2px;
+  font-weight: 90;
+  line-height: 1;
+}
+
+h2 {
+  font-size: 17px;
+}
+
+h3 {
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+  color: #605754;
+}
+
+a:hover {
+  color: #FFB640;
+}
+
+.card-white {
+  background-color: white;
+  padding: 20px;
+  width: 1000px;
+  margin: 40px auto;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+#potatoes {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+#potatoes td {
+  padding: 30px;
+}
